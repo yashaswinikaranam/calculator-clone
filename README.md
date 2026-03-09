@@ -1,15 +1,12 @@
 # 🧮 Calculator Clone
 
 A simple **Calculator Web Application** built using **HTML, CSS, and JavaScript**.  
-It performs basic arithmetic operations with a clean and responsive user interface.
+It performs arithmetic operations with a clean and responsive user interface.
 
 ---
 
 ## 🚀 Live Demo
 
-(Enable GitHub Pages to add the link here)
-
-Example:
 https://yashaswinikaranam.github.io/calculator-clone/
 
 ---
@@ -66,6 +63,7 @@ calculator-clone
 ## 📸 Screenshot
 
 ![Calculator Screenshot](screenshot.png)
+
 
 ---
 
